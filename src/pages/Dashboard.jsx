@@ -13,7 +13,7 @@ import {
     FiChevronRight
 } from 'react-icons/fi';
 import { useAuth } from '../context/AuthContext';
-import Sidebar from '../components/Layout/Sidebar';
+import Sidebar from '../components/layout/Sidebar';
 import ExpenseTracker from '../components/ExpenseTracker';
 import SalaryTracker from '../components/SalaryTracker';
 import { expensesAPI, jobsAPI, workEntriesAPI, salaryPaymentsAPI } from '../utils/api';

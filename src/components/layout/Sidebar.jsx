@@ -79,4 +79,4 @@ const Sidebar = ({ activeTab, setActiveTab, onClose, user, onLogout }) => {
     );
 };
 
-export default Sidebar;
+export default Sidebar; 
